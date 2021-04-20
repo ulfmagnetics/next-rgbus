@@ -3,7 +3,7 @@ funcsigs==1.0.2
 mock==2.0.0
 pbr==1.10.0
 -e git://github.com/ulfmagnetics/pgh-bustime.git@539949b0b9716f4cc0a62983b065f71a484b79e6#egg=pgh_bustime
-py==1.4.31
+py==1.10.0
 pytest==3.0.2
 pytest-mock==1.2
 pytz==2016.6.1
